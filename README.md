@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sparksistaken
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to mew
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: sigma
