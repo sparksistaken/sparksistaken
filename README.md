@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to mew
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord
+- 📫 reach me on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sigma
