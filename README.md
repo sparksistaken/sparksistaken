@@ -1,11 +1,23 @@
 > [!NOTE]
-> Any public repository under this profile licensed to Jim Philip, where the license year is out of date by **2 or more years**, may be regarded as **public domain**. This ensures that if a repository becomes inactive or abandoned, the code can still be fully open and usable by others.
->
-> If the license year is later updated after the repository has entered the public domain, the repository will **revert to its original license** and will no longer be considered inactive or abandoned. However, this does not permanently prevent it from becoming public domain again. If no further updates are made for another **2 years**, it will once again be regarded as **public domain**.
->
-> Any use or distribution of the code that occurred while the repository was considered public domain **remains valid**. However, once the repository reverts to its original license, any new use or distribution must comply with the updated license terms.
->
-> **Example (in 2025):**
->
-> - `Copyright (c) 2022-2024 Jim Philip` – _Not yet public domain (eligible in 2026)_
-> - `Copyright (c) 2022-2023 Jim Philip` – _Now public domain (license not updated for 2 years)_
+> all my repos are under the MIT Licence
+MIT License
+
+Copyright (c) 2025 Sparks
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
