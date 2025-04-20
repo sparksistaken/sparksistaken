@@ -1,7 +1,8 @@
 > [!NOTE]
-> all my repos are under the MIT Licence  
+> All repositories under the @sparksistaken GitHub account are licensed under the MIT License.
+
 >  
-> < MIT License  
+>  MIT License  
 >  
 > Copyright (c) 2025 Sparks  
 >  
